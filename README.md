@@ -29,12 +29,12 @@ forma abrupta.
 - Fundo dourado com efeito de onda em movimento contínuo
 - Três botões de seleção que alternam o ovo exibido com transição suave
 
+**Sobre**
+- Botão de redirecionamento para o cardápio
+
 **Cardápio**
 - 6 sabores de ovos artesanais com animação ao passar o mouse
 - Botões com efeito de inversão de cor no hover
-
-**Sobre**
-- Botão de redirecionamento para o cardápio
 
 **Geral**
 - Menu hamburguer para dispositivos móveis
